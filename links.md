@@ -2,3 +2,4 @@
 2. [Chuo Ward](https://www.library.city.chuo.tokyo.jp/)
 3. [Minato Ward](https://www.lib-minato.jp/)
 4. [Shinjuku Ward](https://www.library.shinjuku.tokyo.jp/)
+5. [Bunkyo Ward](https://www.lib.city.bunkyo.tokyo.jp/)
